@@ -218,6 +218,8 @@ question = f"""
 6. 투자조건: 밸류에이션, 지분율 등 (10%)
 ```
 #### 출력 예시
+<img width="485" alt="KakaoTalk_Photo_2025-04-23-16-49-32" src="https://github.com/user-attachments/assets/32974d02-7262-4eea-a925-4f2a8ca952ed" />
+
 ```python
 {{
   "name": "{name}",
