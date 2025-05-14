@@ -79,6 +79,8 @@ graph TD
   <img width="310" alt="스크린샷 2025-04-23 16 36 08" src="https://github.com/user-attachments/assets/1adef9e6-1338-45e8-9820-2c66c6a532b8" />
 #### 출력 예시:
 <img width="443" alt="스크린샷 2025-04-23 16 37 38" src="https://github.com/user-attachments/assets/68691932-cd85-402e-bb81-cc63db5dd59a" />
+
+
 ```python
 [
   {{
@@ -89,6 +91,7 @@ graph TD
   }}
 ]
 ```
+
 ### 2. 🛠️ 기술 요약 에이전트
 - 역할: 각 스타트업의 공식 웹사이트 및 기술 논문을 기반으로 핵심 기술과 제품 강점 요약
 - 입력: startup_list에서 받은 기업 정보
